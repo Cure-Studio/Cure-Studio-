@@ -46,8 +46,8 @@
   <table align="center">
     <tr>
       <td align="center" width="200px">
-        <a href="https://github.com/toorkki">
-          <img src="https://github.com/toorkki.png" width="80px" style="border-radius: 50%;" alt="Founder"/><br />
+        <a href="https://github.com/oxturki">
+          <img src="https://github.com/oxturki.png" width="80px" style="border-radius: 50%;" alt="Founder"/><br />
           <b>Turki</b>
         </a><br />
         <sub>💻 Developer & Lead Dev</sub>
@@ -60,8 +60,8 @@
         <sub>💻 Developer</sub>
       </td>
       <td align="center" width="200px">
-        <a href="https://github.com/Soon">
-          <img src="https://github.com/Soon.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
+        <a href="https://github.com/">
+          <img src="https://github.com/.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
           <b>Soon</b>
         </a><br />
         <sub>💻 Web & NUI Dev</sub>
