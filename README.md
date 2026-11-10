@@ -46,25 +46,25 @@
   <table align="center">
     <tr>
       <td align="center" width="200px">
-        <a href="https://github.com/YOUR_USERNAME">
-          <img src="https://github.com/YOUR_USERNAME.png" width="80px" style="border-radius: 50%;" alt="Founder"/><br />
-          <b>اسمك هنا</b>
+        <a href="https://github.com/toorkki">
+          <img src="https://github.com/toorkki.png" width="80px" style="border-radius: 50%;" alt="Founder"/><br />
+          <b>Turki</b>
         </a><br />
-        <sub>💻 Founder & Lead Dev</sub>
+        <sub>💻 Developer & Lead Dev</sub>
       </td>
       <td align="center" width="200px">
-        <a href="https://github.com/DEVELOPER_USERNAME">
-          <img src="https://github.com/DEVELOPER_USERNAME.png" width="80px" style="border-radius: 50%;" alt="Developer"/><br />
-          <b>اسم العضو 2</b>
+        <a href="https://github.com/OfficeFrank">
+          <img src="https://github.com/OfficeFrank.png" width="80px" style="border-radius: 50%;" alt="Developer"/><br />
+          <b>EaKq</b>
         </a><br />
-        <sub>⚡ Developer & Scripter</sub>
+        <sub>💻 Developer</sub>
       </td>
       <td align="center" width="200px">
-        <a href="https://github.com/DEVELOPER_USERNAME">
-          <img src="https://github.com/DEVELOPER_USERNAME.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
-          <b>اسم العضو 3</b>
+        <a href="https://github.com/Soon">
+          <img src="https://github.com/Soon.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
+          <b>Soon</b>
         </a><br />
-        <sub>🌐 Web & NUI Dev</sub>
+        <sub>💻 Web & NUI Dev</sub>
       </td>
     </tr>
   </table>
