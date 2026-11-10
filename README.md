@@ -7,7 +7,7 @@
   <p>
     <a href="https://github.com"><img src="https://img.shields.io/badge/FOCUS-BUILDING%20%26%20LEARNING-7289da?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus"></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/STACK-LUA%20%7C%20JS%20%7C%20NODE.JS-cyan?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Tech Stack"></a>
-    <a href="https://discord.gg/your-invite-code"><img src="https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+    <a href="https://discord.gg/cur"><img src="https://img.shields.io/badge/DISCORD-JOIN%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   </p>
 
   <br>
@@ -30,11 +30,45 @@
 
 - 🎮 **FiveM Resources & NUI:** سكريبتات Roleplay متكاملة، أنظمة حماية، وواجهات تفاعلية حديثة.
 - 🌐 **Web Development:** مواقع وتطبيقات ويب ديناميكية، لوحات تحكم (Dashboards)، وتكامل مع قواعد البيانات.
-- 🤖 **Discord Bots:** بوتات مخصصة لإدارة المجتمعات، الأتمتة، والربط البرمي.
+- 🤖 **Discord Bots:** بوتات مخصصة لإدارة المجتمعات، الأتمتة، والربط البرمجي.
 - 💡 **Creative Ideas & Tools:** تحويل الأفكار الإبداعية والمبتكرة إلى أدوات برمجية حقيقية وتعمل بكفاءة.
 
 > **Our Scope:**  
 > Our work isn't limited to a single stack. We specialize in rich FiveM resources with custom NUI web interfaces, full-stack web apps, feature-packed Discord bots, and internal automation tools.
+
+---
+
+### 👥 Cure Crew | طاقم الاستوديو
+
+<div align="center">
+  <p>العقول والشغف الكامن خلف مشاريع وأكواد Cure Studio</p>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://github.com/YOUR_USERNAME">
+          <img src="https://github.com/YOUR_USERNAME.png" width="80px" style="border-radius: 50%;" alt="Founder"/><br />
+          <b>اسمك هنا</b>
+        </a><br />
+        <sub>💻 Founder & Lead Dev</sub>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/DEVELOPER_USERNAME">
+          <img src="https://github.com/DEVELOPER_USERNAME.png" width="80px" style="border-radius: 50%;" alt="Developer"/><br />
+          <b>اسم العضو 2</b>
+        </a><br />
+        <sub>⚡ Developer & Scripter</sub>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/DEVELOPER_USERNAME">
+          <img src="https://github.com/DEVELOPER_USERNAME.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
+          <b>اسم العضو 3</b>
+        </a><br />
+        <sub>🌐 Web & NUI Dev</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
