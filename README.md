@@ -17,7 +17,10 @@
 
 نحن فريق من **المطورين الشغوفين** والهاوين بعالم البرمجة وتطوير البرمجيات. جمعنا الشغف لنحول أفكارنا المبتكرة إلى مشاريع برمجية حقيقية ونشاركها مع المجتمع. 
 
-لا نقتصر على مجالي محدد؛ بل نطوّر كل ما ينبض بالكود! من سكريبتات **FiveM** المتقدمة وواجهات الـ **NUI**، إلى **تطبيق الويب (Web Apps)**، **بوتات Discord**، والأدوات البرمجية الخاصة.
+لا نقتصر على مجال محدد؛ بل نطوّر كل ما ينبض بالكود! من سكريبتات **FiveM** المتقدمة وواجهات الـ **NUI**، إلى **تطبيقات الويب (Web Apps)**، **بوتات Discord**، والأدوات البرمجية الخاصة.
+
+> **About Us:**  
+> Cure Studio is a collective of self-taught, passionate developers driven by curiosity and a deep love for coding. We are hobbyists at heart who enjoy diving into different domains of software development. Whether it's building complex gaming systems or crafting modern web tools, we build because we love to create, learn, and push our technical boundaries together.
 
 ---
 
@@ -27,6 +30,9 @@
 - 🌐 **Web Development:** مواقع وتطبيقات ويب ديناميكية، لوحات تحكم (Dashboards)، وتكامل مع قواعد البيانات.
 - 🤖 **Discord Bots:** بوتات مخصصة لإدارة المجتمعات، الربط مع السيرفرات، وأتمتة المهام (Automation).
 - 💡 **Creative Ideas & Tools:** بناء أدوات برمجية، تجارب جديدة، وتحويل أي فكرة مبتكرة إلى كود يشتغل!
+
+> **Our Scope:**  
+> Our work isn't limited to a single stack or platform. We specialize in developing rich FiveM resources paired with custom NUI web interfaces, standalone full-stack web applications, feature-packed Discord bots, and internal automation utilities. If there's a cool idea waiting to be built, we turn it into clean, working code.
 
 ---
 
@@ -50,11 +56,15 @@
 > 
 > نؤمن أن أفضل المشاريع هي التي تبدأ بشغف وفكرة بسيطة، ثم تتحول بالتجربة والكود النظيف إلى شفرة برمجية ممتازة وتجربة ممتعة.
 
+> **Mindset:**  
+> We believe that hands-on experimentation is the best way to grow. Every project at Cure Studio is born out of enthusiasm, tested through real-world implementation, and refined with clean code practices to deliver open, modular, and effective software.
+
 ---
 
 <div align="center">
 
   📫 **Get in touch / تواصل معنا**  
-  تصل بنا عبر [Discord Server](https://discord.gg/your-invite-code) أو استكشف مشاريعنا أدناه ⬇️
+  Connect with us on [Discord]([https://discord.gg/your-invite-code](https://discord.gg/cur
+)) or explore our repositories below ⬇️
 
 </div>
