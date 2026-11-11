@@ -60,11 +60,11 @@
         <sub>💻 Developer</sub>
       </td>
       <td align="center" width="200px">
-        <a href="https://github.com/">
-          <img src="https://github.com/.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
-          <b>Soon</b>
+        <a href="https://github.com/hsuw5">
+          <img src="https://github.com/hsuw5.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
+          <b>!dxtr</b>
         </a><br />
-        <sub>💻 Web & NUI Dev</sub>
+        <sub>💻 Developer</sub>
       </td>
     </tr>
   </table>
