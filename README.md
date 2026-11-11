@@ -62,7 +62,7 @@
       <td align="center" width="200px">
         <a href="https://github.com/hsuw5">
           <img src="https://github.com/hsuw5.png" width="80px" style="border-radius: 50%;" alt="UI/UX & Web"/><br />
-          <b>Soon</b>
+          <b>!dxtr</b>
         </a><br />
         <sub>💻 Developer</sub>
       </td>
